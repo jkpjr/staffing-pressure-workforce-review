@@ -82,7 +82,7 @@ The data across regions and different domains suggests a strong pattern in the S
 * *Comparison:* Option A is the strongest fit because it directly targets the primary signal (7.1% voluntary attrition), whereas Option B addresses secondary operational friction.
 
 ## 10. Recommended Action and Owner
-* **Recommended Action:** Option A — Investigate the high attrition rate in the South Region.
+* **Recommended Action:** Option A - Investigate the high attrition rate in the South Region.
 * **Accountable Owner:** South HR Director.
 * **Timing:** By Q3 of 2026.
 
@@ -91,6 +91,6 @@ The data on compensation is limited because it shows region-level aggregations, 
 
 ## 12. Copilot-Use Record
 * **Prompt:** "how do I compare compa-ratios only within the controlled, matching groups when they only gave me region-level data?"
-* **AI Output:** "By looking at your data source ('Compensation context by region — L3 sample'), the data is already pre-scoped to Job Level 3 (L3) and broken down by Region. So, displaying that specific table satisfies the requirement because the control (Job Level L3) is already accounted for in the dataset!"
+* **AI Output:** "By looking at your data source ('Compensation context by region - L3 sample'), the data is already pre-scoped to Job Level 3 (L3) and broken down by Region. So, displaying that specific table satisfies the requirement because the control (Job Level L3) is already accounted for in the dataset!"
 * **Decision:** Accept
 * **Evidence-Based Reason:** The provided dataset explicitly restricts the sample to Job Level 3 (L3) across regions. Therefore, displaying this table directly fulfills the requirement to present compa-ratios within controlled, matching job-level groups without needing further segment filtering.
